@@ -1,5 +1,5 @@
 - 🙂 I am Andrew Bevan.
-- 🔭 I’m currently working few large projects using DotNet 6. 
+- 🔭 I’m currently working few large projects using the DotNet Stack. 
 - 🌱 I’m currently learning more about Azure.
 - 🤔 I’m looking for help with furthering my skills as an Architect.
 - 💬 I’m on Twitter https://twitter.com/bluntspoon
