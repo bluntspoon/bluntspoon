@@ -1,6 +1,6 @@
-- 🙂 I am Andrew Bevan.
-- 🔭 I’m currently working few large projects using the DotNet Stack. 
-- 🌱 I’m currently learning more about Azure.
+- 🙂 I am Andrew Bevan. 🔴🔵🟡🟢
+- 🔭 I’m a Full Stack Developer working few large projects using the DotNet Stack.
+- 🌱 I’m learning more about Azure.
 - 🤔 I’m looking for help with furthering my skills as an Architect.
 - 💬 I’m on Twitter https://twitter.com/bluntspoon
 - 📫 How to reach me: https://andrewbevan.me/about/
