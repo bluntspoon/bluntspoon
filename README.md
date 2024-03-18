@@ -1,7 +1,6 @@
 - 🙂 I am Andrew Bevan from [Durban, South Africa](https://goo.gl/maps/rQsiecctb9SovcdG9). 🔴🔵🟡🟢
 - 🔭 I’m a Senior Developer working on few large projects using the Microsoft Tech Stack for [Derivco](https://www.derivco.com) one of the largest iGaming Platform Providers.
 - 🌱 I’m currently learning more about Cloud Technologies while furthering my skills as a Software Architect.
-- 😄 Pronouns: he/him
 - ⚡ Fact: I enjoy spending time with my family and friends.
 - 📧 Want to connect with me?
   - dm me on [X](https://x.com/bluntspoon)
