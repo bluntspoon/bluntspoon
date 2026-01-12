@@ -13,7 +13,7 @@
 ### 📊 GitHub Statistics
 <div align="center">
   <img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bluntspoon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bluntspoon&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=320" />
+  <img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bluntspoon&layout=compact&theme=radical&hide_border=true&langs_count=10" />
 </div>
 
 
