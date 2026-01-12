@@ -1,3 +1,10 @@
+# Hi there! 👋 Welcome to my GitHub Profile
+
+![Profile Views](https://komarev.com/ghpvc/?username=bluntspoon&color=blueviolet&style=for-the-badge)
+[![X Follow](https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bluntspoon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-bevan)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bluntspoon@gmail.com)
+
 - 🙂 I am Andrew Bevan from [Durban, South Africa](https://goo.gl/maps/rQsiecctb9SovcdG9). 🔴🔵🟡🟢
 - 🔭 I’m a Senior Developer working on few large projects using the Microsoft Tech Stack for [Derivco](https://www.derivco.com) one of the largest iGaming Platform Providers.
 - 🌱 I’m currently learning more about Cloud Technologies while furthering my skills as a Software Architect.
@@ -7,7 +14,22 @@
   - mail me on [Gmail](mailto:bluntspoon@gmail.com)
   - follow me on [LinkedIn](https://www.linkedin.com/in/andrew-bevan)
 
-## Senior Developer | 15+ Years of Software Development in the iGaming Industry
+### 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bluntspoon&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bluntspoon&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bluntspoon&layout=compact&theme=radical&hide_border=true)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=bluntspoon&theme=onedark&no-frame=true&row=1&column=7)
+
+</div>
+
+
+## Senior Developer | 15+ Years of Software Development in the iGaming Industry 🎮
 
 I am a skilled and accomplished IT professional, specialising in software development, utilising Agile methodologies.
 
@@ -16,7 +38,7 @@ Advanced business and technical acumen, along with excellent qualifications, ens
 Highly developed analytical expertise and problem solving, time-management and organisational skills guarantee precise attention to detail, exemplary performance under pressure and the ability to achieve tight deadlines in fast-paced environments.
 
 
-### QUALIFICATIONS:
+### 🎓 QUALIFICATIONS:
 - Bachelor’s Degree in Information Technology, Durban University of Technology
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure Fundamentals
@@ -28,22 +50,28 @@ Highly developed analytical expertise and problem solving, time-management and o
 - ISEB - Test Analyst, BCS
 
 
-### RECENT KEY PROJECTS:
+### 🚀 RECENT KEY PROJECTS:
 - Architecting a new cloud-based game management system, to streamline the delivery of games to customers 
 - Developing modern, cross-platform multiplayer poker gaming experience for the web, Android, Windows and Mac
 
 
-### TECH STACK:
-Languages & Frameworks
-- C# / .NET / ASP.NET / Razor / MVC / WebAPI
+### 💻 TECH STACK:
+
+**Languages & Frameworks:**
+
+<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+
+**Cloud & Tools:**
+
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+
+---
+
+**Additional Technologies:**
 - SQL / LINQ / ADO.NET / EF Core / Dapper
-- TypeScript / JavaScript / HTML5 / CSS3 
-
-
-Tools 
+- ASP.NET / Razor / MVC / WebAPI
 - Visual Studio / VS Code
 - SQL Management Studio / Azure Data Studio
-- Azure Cloud - Kubernetes / AKS / Terraform
 - Azure DevOps - Work Items / Repos / Pipelines
 - Github - Projects / Repos / Issues
 - Automation - Selenium / NUnit / NSubstitute / Powershell
