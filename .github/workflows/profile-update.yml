@@ -18,7 +18,8 @@ jobs:
         
       - name: Update README with dynamic content
         run: |
-          echo "Profile stats updated on: $(date)" >> profile-update.log
+          echo "Profile stats last updated: $(date)" > profile-update.log
+          echo "This file tracks the last successful profile update." >> profile-update.log
           
       - name: Commit changes
         run: |
