@@ -11,21 +11,13 @@
 - ⚡ Fact: I enjoy spending time with my family and friends.
 
 ### 📊 GitHub Statistics
-
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bluntspoon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=bluntspoon&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bluntspoon&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![Trophy](https://github-profile-trophy-tawny.vercel.app/?username=bluntspoon&theme=onedark&no-frame=true&row=1&column=7)
-
+  <img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bluntspoon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bluntspoon&layout=compact&theme=radical&hide_border=true&langs_count=10&card_width=320" />
 </div>
 
 
-## Senior Developer | 15+ Years of Software Development in the iGaming Industry 🎮
+## Senior Developer | 18+ Years of Software Development in the iGaming Industry 🎮
 
 I am a skilled and accomplished IT professional, specialising in software development, utilising Agile methodologies.
 
