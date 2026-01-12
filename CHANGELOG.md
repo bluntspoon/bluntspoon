@@ -16,7 +16,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Contact information and social media links
 - MIT License for the repository
 - GitHub Actions workflows for automated profile updates
-- WakaTime integration for coding statistics
 - Visual enhancements with badges and statistics cards
 - Assets folder for profile media
 
