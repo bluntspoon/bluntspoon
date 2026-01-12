@@ -1,0 +1,38 @@
+name: Update Profile Stats
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        
+      - name: Update README with dynamic content
+        run: |
+          echo "Profile stats last updated: $(date)" > profile-update.log
+          echo "This file tracks the last successful profile update." >> profile-update.log
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          if [[ -f profile-update.log ]]; then
+            git add profile-update.log
+            git diff --quiet && git diff --staged --quiet || git commit -m "chore: update profile stats [skip ci]"
+          fi
+          
+      - name: Push changes
+        if: success()
+        run: |
+          git pull --rebase
+          git push || echo "No changes to push"
