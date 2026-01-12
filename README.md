@@ -4,6 +4,7 @@
 [![X Follow](https://img.shields.io/badge/X-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bluntspoon)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-bevan)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bluntspoon@gmail.com)
+## 👨🏻‍💻 About Me
 
 - 🙂 I am Andrew Bevan from [Durban, South Africa](https://goo.gl/maps/rQsiecctb9SovcdG9). 🔴🔵🟡🟢
 - 🔭 I’m a Senior Developer working on few large projects using the Microsoft Tech Stack for [Derivco](https://www.derivco.com) one of the largest iGaming Platform Providers.
@@ -11,10 +12,8 @@
 - ⚡ Fact: I enjoy spending time with my family and friends.
 
 ### 📊 GitHub Statistics
-<div align="center">
-  <img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bluntspoon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bluntspoon&layout=compact&theme=radical&hide_border=true&langs_count=10" />
-</div>
+<img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bluntspoon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<!-- <img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bluntspoon&layout=compact&theme=radical&hide_border=true&langs_count=10" /> -->
 
 
 ## Senior Developer | 18+ Years of Software Development in the iGaming Industry 🎮
