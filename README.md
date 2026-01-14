@@ -11,9 +11,6 @@
 - 🌱 I’m currently learning more about AI Technologies while furthering my skills as a Software Architect.
 - ⚡ Fact: I enjoy spending time with my family and friends.
 
-### 📊 GitHub Statistics
-<img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bluntspoon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<!-- <img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bluntspoon&layout=compact&theme=radical&hide_border=true&langs_count=10" /> -->
 
 
 ## Senior Developer | 18+ Years of Software Development in the iGaming Industry 🎮
@@ -23,7 +20,6 @@ I am a skilled and accomplished IT professional, specialising in software develo
 Advanced business and technical acumen, along with excellent qualifications, ensure a firm understanding of effective processes and systems including resolving issues and implementing appropriate improvements, while enhanced liaison and negotiation skills allow for successful collaboration with stakeholders from many professional, technical and cultural backgrounds.
 
 Highly developed analytical expertise and problem solving, time-management and organisational skills guarantee precise attention to detail, exemplary performance under pressure and the ability to achieve tight deadlines in fast-paced environments.
-
 
 ### 🎓 QUALIFICATIONS:
 - Bachelor’s Degree in Information Technology, Durban University of Technology
@@ -36,11 +32,9 @@ Highly developed analytical expertise and problem solving, time-management and o
 - AI and Big Data, Learning Machines
 - ISEB - Test Analyst, BCS
 
-
 ### 🚀 RECENT KEY PROJECTS:
 - Architecting a new cloud-based game management system, to streamline the delivery of games to customers 
 - Developing modern, cross-platform multiplayer poker gaming experience for the web, Android, Windows and Mac
-
 
 ### 💻 TECH STACK:
 
@@ -52,8 +46,6 @@ Highly developed analytical expertise and problem solving, time-management and o
 
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
----
-
 **Additional Technologies:**
 - SQL / LINQ / ADO.NET / EF Core / Dapper
 - ASP.NET / Razor / MVC / WebAPI
@@ -63,3 +55,8 @@ Highly developed analytical expertise and problem solving, time-management and o
 - Github - Projects / Repos / Issues
 - Automation - Selenium / NUnit / NSubstitute / Powershell
 - Microsoft Office - Excel / Word / PowerPoint / Outlook / Teams
+
+## 📊 GitHub Statistics
+<img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bluntspoon&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<!-- <img height=800 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=bluntspoon&layout=compact&theme=radical&hide_border=true&langs_count=10" /> -->
+
