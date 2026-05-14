@@ -44,7 +44,7 @@ Today I lead platform architecture across a multi-region engineering team, with 
 
 **Cloud & Infrastructure:**
 
-<img src="https://img.shields.io/badge/Microsoft%20Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20Kubernetes%20Service-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white"> <img src="https://img.shields.io/badge/Bicep-00BCF2?style=for-the-badge&logo=biome&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20Kubernetes%20Service-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white">
 
 **Data & Web:**
 
